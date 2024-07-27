@@ -1,0 +1,16 @@
+#container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+button {
+    margin: 5px 50%;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    border: 1px solid #ddd; /* Optional for visibility */
+}
